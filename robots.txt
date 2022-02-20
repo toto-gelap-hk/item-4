@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://toto-gelap-hk.github/item-4/sitemap.xml
